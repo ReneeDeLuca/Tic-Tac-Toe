@@ -11,17 +11,17 @@ One of my first ever JS projects, the classic Tic-Tac-Toe. I followed [this tuto
 **Tech used:** HTML, CSS, JavaScript
 
 **Skills Learned/Used**
-Flex Grid
-Event Listeners
-Array Methods
-Loops
-Conditionals
+  - Flex Grid
+  - Event Listeners
+  - Array Methods
+  - Loops
+  - Conditionals
 
 ## Other Projects:
 
 ### Cats Vs Dogs Connect 4:
 https://github.com/ReneeDeLuca/Connect4
-I used the lessons learned from building Tic-Tac-Toe to build a Connect 4 game with a cats vs dogs theme. 
+  - I used the lessons learned from building Tic-Tac-Toe to build a Connect 4 game with a cats vs dogs theme. 
 
 
 
